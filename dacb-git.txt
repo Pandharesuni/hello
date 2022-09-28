@@ -1,0 +1,43 @@
+git diff b1 main
+
+git diff
+
+git diff ...origin
+
+
+
+
+
+
+
+
+>>> aws [create an account ]  [docker]
+https://aws.amazon.com/
+> jenkins[ jdk 11 or 17]
+https://www.jenkins.io/download/
+> selenium webdriver
+https://www.selenium.dev/downloads/
+ If don't have aws account
+>> Docker desktop [wsl linux]  
+https://docs.docker.com/desktop/install/windows-install/
+
+git 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
